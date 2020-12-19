@@ -1,0 +1,85 @@
+<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:regexp="http://exslt.org/regular-expressions" xmlns:aras="http://ww.aras-corp.com" xmlns:usr="urn:the-xml-files:xslt"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Exported HTML</title>
+<base href="http://10.10.241.66/plm/Client/X-salt=8_11.0.0.6920-X/scripts/">
+<style type="text/css"><!--
+						table {
+							
+							border-width: 1px;
+							border-style: solid none none solid;
+							table-layout:fixed;
+						}
+						th {
+							background-color: #EEEEEE;
+							font-size: 9pt;
+							font-family: arial, helvetica, sans-serif;
+							border-width: 0px 1px 3px 0px;
+							border-style: none solid solid none;
+							border-color: #000000;
+						}
+						td {
+							background-color: #FFFFFF;
+							font-size: 8pt;
+							font-family: arial, helvetica, sans-serif;
+							border-width: 1px;
+							border-style: none solid solid none;
+							border-color: #000000;
+							mso-number-format:General; vertical-align:top;
+						}
+						pre {
+							white-space:normal; 
+							word-wrap:break-word;
+						}
+						br {
+							mso-data-placement:same-cell;
+						}
+					--></style>
+</head>
+<body topmargin="0" leftmargin="0"><table id="contentTable" align="center" cellpadding="0" border="1" cellspacing="0">
+<colgroup><col id="1">
+<col id="2">
+<col id="3">
+<col id="4">
+<col id="5">
+</colgroup><tbody><tr><th id="1" style="
+					background-color:;
+				" align="center">名称&nbsp;</th>
+<th id="2" style="
+					background-color:;
+				" align="center">描述&nbsp;</th>
+<th id="3" style="
+					background-color:;
+				" align="center">起始状态 [...]&nbsp;</th>
+<th id="4" style="
+					background-color:;
+				" align="center">类路径&nbsp;</th>
+</tr><tr>
+<td nowrap="" id="1" align="" style="
+					background-color:;
+				"><pre>Doc_Commission Form</pre></td>
+<td nowrap="" id="2" align="" style="
+					background-color:;
+				"><pre>Document Life Cycle_知识产权类/审查意见答复委托表</pre></td>
+<td nowrap="" id="3" align="" style="
+					background-color:;
+				"><pre>Preliminary</pre></td>
+<td nowrap="" id="4" align="" style="
+					background-color:#f3f3f3;
+				"><pre>知识产权类/审查意见答复委托表</pre></td>
+</tr>
+<tr>
+<td nowrap="" id="1" align="" style="
+					background-color:;
+				"><pre>Doc_Review Comments_V1</pre></td>
+<td nowrap="" id="2" align="" style="
+					background-color:;
+				"><pre>Document Life Cycle_知识产权类/审查意见答复文件</pre></td>
+<td nowrap="" id="3" align="" style="
+					background-color:;
+				"><pre>Preliminary</pre></td>
+<td nowrap="" id="4" align="" style="
+					background-color:#f3f3f3;
+				"><pre>知识产权类/审查意见答复文件</pre></td>
+</tr>
+</tbody></table>
+</body></html>
